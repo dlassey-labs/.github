@@ -42,7 +42,7 @@ DL Labs serves organizations and professionals seeking practical, sovereign IT s
 
 
 - 💼 **LinkedIn** — [Dosseh Lassey](https://www.linkedin.com/in/dosseh-lassey)
-- 📝 **Blog** — *coming soon*
+- 📝 **Blog** — https://dossehlassey.me
 
 ---
 
