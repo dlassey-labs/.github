@@ -23,7 +23,7 @@ All repositories here are **mirrored from a self-hosted GitLab instance**, where
 | Repository | What it covers |
 |---|---|
 | **[dl-labs](https://github.com/dlassey-labs/dl-labs)** | Platform overview · architecture · roadmap |
-| **[security-engineering](https://github.com/dlassey-labs/security-engineering)** | 🆕 Security by design · Vault PKI · Secrets · SIEM · ZTNA |
+| **[security-engineering](https://github.com/dlassey-labs/security-engineering)** | 🆕 Security Architecture · Vault PKI · Secrets · SIEM · ZTNA |
 
 
 
