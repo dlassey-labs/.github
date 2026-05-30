@@ -19,9 +19,13 @@ All repositories here are **mirrored from a self-hosted GitLab instance**, where
 
 ## 🚀 Start Here
 
+
 | Repository | What it covers |
 |---|---|
 | **[dl-labs](https://github.com/dlassey-labs/dl-labs)** | Platform overview · architecture · roadmap |
+| **[security-engineering](https://github.com/dlassey-labs/security-engineering)** | 🆕 Security by design · Vault PKI · Secrets · SIEM · ZTNA |
+
+
 
 *More repositories coming soon: Terraform modules, Ansible roles, GitLab CI/CD templates, AI agents.*
 
