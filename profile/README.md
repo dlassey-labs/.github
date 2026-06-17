@@ -24,6 +24,7 @@ All repositories here are **mirrored from a self-hosted GitLab instance**, where
 |---|---|
 | **[dl-labs](https://github.com/dlassey-labs/dl-labs)** | Platform overview · architecture · roadmap |
 | **[security-engineering](https://github.com/dlassey-labs/security-engineering)** | Security Architecture · Vault PKI · Secrets · SIEM · ZTNA |
+| **[vault-secrets-management](https://github.com/dlassey-labs/vault-secrets-management)**| HashiCorp Vault — Secrets Management · KV v2 · Auto-unseal |
 
 
 
