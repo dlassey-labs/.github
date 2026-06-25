@@ -9,7 +9,7 @@
 
 ---
 
-## 👋 Welcome
+##  Welcome
 
 This organization hosts the **public showcase** of a self-hosted experimentation platform — covering modern infrastructure, automation, and AI patterns built for sovereign and resilient environments.
 
@@ -17,7 +17,7 @@ All repositories here are **mirrored from a self-hosted GitLab instance**, where
 
 ---
 
-## 🚀 Start Here
+##  Start Here
 
 
 | Repository | What it covers |
