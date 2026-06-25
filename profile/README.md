@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛠 DL Labs
+#  DL Labs
 
 ### *Self-hosted experimentation platform for Infrastructure, Automation & AI*
 
@@ -32,7 +32,7 @@ All repositories here are **mirrored from a self-hosted GitLab instance**, where
 
 ---
 
-## 🌍 Audience
+##  Audience
 
 DL Labs serves organizations and professionals seeking practical, sovereign IT solutions:
 
@@ -43,7 +43,7 @@ DL Labs serves organizations and professionals seeking practical, sovereign IT s
 
 ---
 
-## 🤝 Connect
+##  Connect
 
 
 - 💼 **LinkedIn** — [Dosseh Lassey](https://www.linkedin.com/in/dosseh-lassey)
